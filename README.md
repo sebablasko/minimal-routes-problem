@@ -34,10 +34,13 @@ optional arguments:
 
 ### Examples
 
-A simple execution of the dijsktra version with results in a single file *salida.txt* is: 
+A simple execution of the dijsktra version with results in a single file *salida.txt* is:
+
 `python main.py 6/nodos.txt 6/arcos.txt 1`
 
-A simple execution of the dial's version with results in standard output is: `python main.py 6/nodos.txt 6/arcos.txt 1 --dial --so`
+A simple execution of the dial's version with results in standard output is:
+
+`python main.py 6/nodos.txt 6/arcos.txt 1 --dial --so`
 
 ## Validation
 
